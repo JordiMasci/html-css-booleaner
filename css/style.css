@@ -24,3 +24,16 @@ p{
     font-size: 80%;
 }
 
+.descrition-photo{
+    font-style: italic;
+    font-size: 80%;
+}
+
+.background{
+    background-color: yellow;
+}
+
+.margin-left{
+   padding-left: 18px;
+
+}
