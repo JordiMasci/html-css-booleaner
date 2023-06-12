@@ -12,9 +12,8 @@
     
 }
 
-p{
-    color: grey;
-}
+
+
 
 .link{
     color: lightblue;
@@ -55,4 +54,23 @@ th{
 
 .table{
     background-color: aqua;
+}
+
+.color{
+    color: grey;
+}
+
+.images-finali{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    width: 280px;
+    background-repeat: no-repeat;
+    
+}
+.images-finali2{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    width: 280px;
+    background-repeat: no-repeat;
+    
 }
