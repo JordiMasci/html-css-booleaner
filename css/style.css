@@ -6,7 +6,21 @@
 }
 
 
-img{
+.container img{
     width: 250px;
     margin-top: 30px;
+    
 }
+
+p{
+    color: grey;
+}
+
+.link{
+    color: lightblue;
+}
+
+.smaller{
+    font-size: 80%;
+}
+
