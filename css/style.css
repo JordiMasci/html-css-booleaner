@@ -37,3 +37,22 @@ p{
    padding-left: 18px;
 
 }
+
+.table-head{
+    background-color: lightblue;
+    
+    
+    
+}
+
+th{
+    color: white;
+}
+
+.text-align{
+    text-align: left;
+}
+
+.table{
+    background-color: aqua;
+}
